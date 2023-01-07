@@ -1,0 +1,35 @@
+newmtl wheels
+Kd 1 1 1
+d 1
+map_Kd Binary_1.png
+newmtl tex_02
+Kd 1 1 1
+d 1
+map_Kd Binary_2.png
+newmtl tex_01
+Kd 1 1 1
+d 1
+map_Kd Binary_3.png
+newmtl parts_AO
+Kd 1 1 1
+d 1
+map_Kd Binary_4.png
+newmtl tex_03
+Kd 1 1 1
+d 1
+map_Kd Binary_5.png
+newmtl tex_05
+Kd 1 1 1
+d 1
+map_Kd Binary_6.png
+newmtl tex_04
+Kd 1 1 1
+d 1
+map_Kd Binary_7.png
+newmtl tex_03a
+Kd 1 1 1
+d 1
+map_Kd Binary_8.png
+newmtl internals
+Kd 0.9098039215686274 0.8823529411764706 0.8
+d 1

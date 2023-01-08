@@ -37775,7 +37775,7 @@ vt 0.14126056432724 0.00200280547142028 0
 # 18883 texture coords
 
 g MainEleM
-usemtl Material #30  ��
+usemtl Material #30
 s 1
 f 4/4 4305/4305 5/5
 f 4287/4287 4308/4308 4286/4286
